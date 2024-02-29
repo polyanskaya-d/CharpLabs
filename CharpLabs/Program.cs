@@ -6,8 +6,8 @@ namespace CharpLabs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.Write("Pipi pupu");
+            Console.WriteLine("qweawda");
+            Console.Write("afsefew");
 
         }
     }
