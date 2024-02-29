@@ -6,7 +6,7 @@ namespace CharpLabs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("qweawda");
+            Console.WriteLine("errwe");
             Console.Write("afsefew");
 
         }
