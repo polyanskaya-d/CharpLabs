@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/darapolanskaa/Desktop/python2/CharpLabs/CharpLabs/CharpLabs.csproj": {}
+    "/Users/darapolanskaa/Desktop/Навчання/CharpLabs/CharpLabs/CharpLabs.csproj": {}
   },
   "projects": {
-    "/Users/darapolanskaa/Desktop/python2/CharpLabs/CharpLabs/CharpLabs.csproj": {
+    "/Users/darapolanskaa/Desktop/Навчання/CharpLabs/CharpLabs/CharpLabs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/darapolanskaa/Desktop/python2/CharpLabs/CharpLabs/CharpLabs.csproj",
+        "projectUniqueName": "/Users/darapolanskaa/Desktop/Навчання/CharpLabs/CharpLabs/CharpLabs.csproj",
         "projectName": "CharpLabs",
-        "projectPath": "/Users/darapolanskaa/Desktop/python2/CharpLabs/CharpLabs/CharpLabs.csproj",
+        "projectPath": "/Users/darapolanskaa/Desktop/Навчання/CharpLabs/CharpLabs/CharpLabs.csproj",
         "packagesPath": "/Users/darapolanskaa/.nuget/packages/",
-        "outputPath": "/Users/darapolanskaa/Desktop/python2/CharpLabs/CharpLabs/obj/",
+        "outputPath": "/Users/darapolanskaa/Desktop/Навчання/CharpLabs/CharpLabs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/darapolanskaa/.nuget/NuGet/NuGet.Config"
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
         }
       }
     }
